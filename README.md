@@ -4,3 +4,4 @@
 - Melakukan merge dan pull request
 - Melakukan squashing changes
 - Melakukan code reviews
+
